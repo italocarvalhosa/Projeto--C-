@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\dia10\C#\C#\bin\Debug\C#.exe.config
+C:\Users\Tecnico\Desktop\dia10\C#\C#\bin\Debug\C#.exe
+C:\Users\Tecnico\Desktop\dia10\C#\C#\bin\Debug\C#.pdb
+C:\Users\Tecnico\Desktop\dia10\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\dia10\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\dia10\C#\C#\obj\Debug\C#.exe
+C:\Users\Tecnico\Desktop\dia10\C#\C#\obj\Debug\C#.pdb
